@@ -3,7 +3,7 @@
 	===========================================================================
 	 Original script by:    The Immortal - https://community.spiceworks.com/topic/1560779-silent-uninstall-script-for-quicktime
      Updated on:            20200131
-	 Updated by: 	        Jonathan Warner Computer Services :: info@computerrepairsacramentoca.net
+	 Updated by: 	        Computer Repair Sacramento :: info@computerrepairsacramentoca.net
 	 Filename:     	        wcs_remove-quicktime.ps1
      CAUTION: distributed freely without any warranty or guarantee of suitability of fitness for any purpose! Use at your own risk!
 
