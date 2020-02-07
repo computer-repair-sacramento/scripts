@@ -8,7 +8,7 @@ REM  ----------------------------------- Overview ------------------------------
 
 	REM  Original script by:    Jonathan Warner
 	REM  Updated on:            20200131
-	REM  Updated by:            Computer Repair Sacramento :: info@computerrepairsacramentoca.net
+	REM  Updated by:            Computer Repair Sacramento
 	REM  Filename:              wcs_clear-printer-queue.bat
 	REM  distributed freely without any warranty or guarantee of suitability of fitness for any purpose! Use at your own risk!
 
