@@ -5,7 +5,7 @@ REM ----------------------------------- Overview -------------------------------
 
 	REM  Original script to prevent Windows 10 Upgrade pieced together by:    Jonathan Warner
 	REM  Updated on:            20200131
-	REM  Updated by:            Computer Repair Sacramento :: info@computerrepairsacramentoca.net
+	REM  Updated by:            Computer Repair Sacramento
 	REM  Filename:              wcs_prevent-win10-upgrade.bat
 	REM  distributed freely without any warranty or guarantee of suitability of fitness for any purpose! Use at your own risk!
 
